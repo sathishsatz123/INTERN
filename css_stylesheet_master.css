@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.block-tv-card {
+    float: left;
+    width: 100%;
+    padding: 10px 0;
+    background: #333;
+    color: #FFF;
+}
+
+.card-row {
+    float: left;
+    width: 100%;
+}

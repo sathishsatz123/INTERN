@@ -1,0 +1,47 @@
+.card-movie-3x4 {
+    float: left;
+    margin: 10px 20px;
+    width: 150px;
+    min-height: 200px;
+    overflow: hidden;
+}
+
+.card-movie-3x4 .card-section-1 {
+    float: left;
+    width: 100%;
+    position: relative;
+}
+
+.card-movie-3x4 .card-section-1 img {
+    float: left;
+    width: 100%;
+}
+
+.card-movie-3x4 .tag-primary {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #00FF00;
+    padding: 3px 6px;
+}
+
+.card-movie-3x4 .tag-secondary {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: #00FF00;
+    padding: 3px 6px;
+}
+
+.card-movie-3x4 .card-section-2 {
+    float: left;
+    width: 100%;
+}
+
+
+.card-movie-3x4 .card-section-2 .title {
+    padding: 5px 10px;
+}
+
+
+

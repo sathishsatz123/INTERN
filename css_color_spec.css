@@ -1,0 +1,53 @@
+
+
+.bg-surface-primary {
+	background: #212121 !important;
+}
+
+.bg-brand-primary {
+	background: #AA1721 !important;
+}
+.bg-brand-secondary {
+	background: #17AAA0 !important;
+}
+.bg-brand-tertiary {
+	background: #EB7921 !important;
+}
+
+.fg-emphasis-high {
+	color: #F5F5F5 !important;
+}
+.fg-emphasis-medium {
+	color: #BDBDBD !important;
+}
+.fg-emphasis-low {
+	color: #646464 !important;
+}
+
+.layer-for-opacity {
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.bg-opacity-80 {
+	opacity: 0.5;
+}
+
+.bg-opacity-50 {
+	opacity: 0.5;
+}
+
+.bg-opacity-40 {
+	opacity: 0.5;
+}
+
+.bg-opacity-25 {
+	opacity: 0.5;
+}
+
+.bg-opacity-10 {
+	opacity: 0.5;
+}

@@ -1,0 +1,48 @@
+.carousel-hybrid-l1 {
+    float: left;
+    margin: 10px 20px;
+    width: 640px;
+    min-height: 360px;
+    overflow: hidden;
+    position: relative;
+}
+
+.carousel-hybrid-l1 .carousel-section-1 {
+    float: left;
+    width: 100%;
+    position: relative;
+}
+
+.carousel-hybrid-l1 .carousel-section-1 img {
+    float: left;
+    width: 100%;
+}
+
+.carousel-hybrid-l1 .tag-primary {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #00FF00;
+    padding: 3px 6px;
+}
+
+.carousel-hybrid-l1 .tag-secondary {
+    position: absolute;
+    bottom: 40px;
+    left: 0;
+    background: #00FF00;
+    padding: 3px 6px;
+}
+
+.carousel-hybrid-l1 .carousel-section-2 {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+}
+
+
+.carousel-hybrid-l1 .carousel-section-2 .title {
+    padding: 10px 20px;
+    position: relative;
+}
